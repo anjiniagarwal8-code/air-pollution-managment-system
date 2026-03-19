@@ -1,0 +1,217 @@
+stn_code,Date,Dated,location,so2,rspm,no2
+55,13-01-2015,Jan-15,Nizamuddin,62,182,47
+55,27-01-2015,Jan-15,Nizamuddin,54,159,46
+55,10-02-2015,Feb-15,Nizamuddin,39,241,48
+55,26-02-2015,Feb-15,Nizamuddin,43,210,39
+55,10-03-2015,Mar-15,Nizamuddin,29,199,38
+55,26-03-2015,Mar-15,Nizamuddin,67,174,52
+55,09-04-2015,Apr-15,Nizamuddin,55,243,44
+55,27-04-2015,Apr-15,Nizamuddin,49,219,38
+55,07-05-2015,May-15,Nizamuddin,65,121,46
+55,20-05-2015,May-15,Nizamuddin,55,123,47
+55,11-06-2015,Jun-15,Nizamuddin,36,149,46
+55,29-06-2015,Jun-15,Nizamuddin,31,183,43
+55,03-07-2015,Jul-15,Nizamuddin,33,150,43
+55,21-07-2015,Jul-15,Nizamuddin,40,148,45
+55,04-08-2015,Aug-15,Nizamuddin,49,164,37
+55,25-08-2015,Aug-15,Nizamuddin,68,253,41
+55,08-09-2015,Sep-15,Nizamuddin,45,236,44
+55,24-09-2015,Sep-15,Nizamuddin,46,241,40
+55,07-10-2015,Oct-15,Nizamuddin,44,229,45
+55,20-10-2015,Oct-15,Nizamuddin,46,248,42
+55,10-11-2015,Nov-15,Nizamuddin,84,343,44
+55,27-11-2015,Nov-15,Nizamuddin,65,302,44
+55,08-12-2015,Dec-15,Nizamuddin,77,359,39
+55,31-12-2015,Dec-15,Nizamuddin,57,270,71
+57,09-01-2016,Jan-16,Shahzada Bagh,51,344,65
+57,28-01-2016,Jan-16,Shahzada Bagh,38,289,62
+57,11-02-2016,Feb-16,Shahzada Bagh,58,302,61
+57,24-02-2016,Feb-16,Shahzada Bagh,60,362,62
+57,11-03-2016,Mar-16,Shahzada Bagh,72,175,59
+57,27-03-2016,Mar-16,Shahzada Bagh,54,197,62
+57,15-04-2016,Apr-16,Shahzada Bagh,40,207,57
+57,28-04-2016,Apr-16,Shahzada Bagh,51,227,59
+57,08-05-2016,May-16,Shahzada Bagh,66,239,51
+57,26-05-2016,May-16,Shahzada Bagh,57,300,44
+57,04-06-2015,Jun-16,Shahzada Bagh,45,220,43
+57,22-06-2016,Jun-16,Shahzada Bagh,32,316,44
+57,06-07-2016,Jul-16,Shahzada Bagh,46,106,46
+57,22-07-2016,Jul-16,Shahzada Bagh,55,289,45
+57,05-08-2016,Aug-16,Shahzada Bagh,49,104,37
+57,30-08-2016,Aug-16,Shahzada Bagh,49,104,37
+57,01-09-2016,Sep-16,Shahzada Bagh,64,217,57
+57,17-09-2016,Sep-16,Shahzada Bagh,55,184,44
+57,08-10-2016,Oct-16,Shahzada Bagh,48,250,58
+57,27-10-2016,Oct-16,Shahzada Bagh,25,173,53
+57,04-11-2016,Nov-16,Shahzada Bagh,31,445,63
+57,24-11-2016,Nov-16,Shahzada Bagh,36,389,71
+57,09-12-2016,Dec-16,Shahzada Bagh,45,257,82
+57,29-12-2016,Dec-16,Shahzada Bagh,52,309,52
+58,07-01-2017,Jan-17,Shahadra,55,289,61
+58,20-01-2017,Jan-17,Shahadra,68,272,65
+58,04-02-2017,Feb-17,Shahadra,45,126,59
+58,20-02-2017,Feb-17,Shahadra,46,287,61
+58,03-03-2017,Mar-17,Shahadra,44,113,59
+58,25-03-2017,Mar-17,Shahadra,41,232,60
+58,08-04-2017,Apr-17,Shahadra,84,166,59
+58,29-04-2017,Apr-17,Shahadra,72,352,51
+58,11-05-2017,May-17,Shahadra,70,265,57
+58,27-05-2017,May-17,Shahadra,57,314,47
+58,05-06-2017,Jun-17,Shahadra,53,250,47
+58,26-06-2017,Jun-17,Shahadra,45,266,50
+58,07-07-2017,Jul-17,Shahadra,58,138,43
+58,28-07-2017,Jul-17,Shahadra,66,221,40
+58,06-08-2017,Aug-17,Shahadra,75,267,40
+58,24-08-2017,Aug-17,Shahadra,50,66,44
+58,02-09-2017,Sep-17,Shahadra,40,179,51
+58,18-09-2017,Sep-17,Shahadra,62,265,50
+58,06-10-2017,Oct-17,Shahadra,54,269,54
+58,28-10-2017,Oct-17,Shahadra,55,269,62
+58,06-11-2017,Nov-17,Shahadra,43,405,60
+58,26-11-2017,Nov-17,Shahadra,46,470,67
+58,10-12-2017,Dec-17,Shahadra,69,355,73
+58,31-12-2017,Dec-17,Shahadra,54,335,49
+59,07-01-2018,Jan-18,Janakpuri,49,143,47
+59,23-01-2018,Jan-18,Janakpuri,57,120,50
+59,09-02-2018,Feb-18,Janakpuri,54,152,40
+59,25-02-2018,Feb-18,Janakpuri,32,167,45
+59,09-03-2018,Mar-18,Janakpuri,25,80,44
+59,30-03-2018,Mar-18,Janakpuri,37,145,46
+59,08-04-2018,Apr-18,Janakpuri,40,175,44
+59,24-04-2018,Apr-18,Janakpuri,52,180,48
+59,11-05-2018,May-18,Janakpuri,67,59,48
+59,27-05-2018,May-18,Janakpuri,45,147,49
+59,05-06-2018,Jun-18,Janakpuri,65,137,60
+59,26-06-2018,Jun-18,Janakpuri,51,215,55
+59,07-07-2018,Jul-18,Janakpuri,46,166,52
+59,28-07-2018,Jul-18,Janakpuri,84,232,51
+59,06-08-2018,Aug-18,Janakpuri,49,174,46
+59,27-08-2018,Aug-18,Janakpuri,70,239,50
+59,07-09-2018,Sep-18,Janakpuri,64,197,51
+59,29-09-2018,Sep-18,Janakpuri,51,195,50
+59,06-10-2018,Oct-18,Janakpuri,48,226,52
+59,28-10-2018,Oct-18,Janakpuri,58,313,52
+59,09-11-2018,Nov-18,Janakpuri,60,403,49
+59,26-11-2018,Nov-18,Janakpuri,60,346,58
+59,02-12-2018,Dec-18,Janakpuri,66,423,53
+59,23-12-2018,Dec-18,Janakpuri,46,140,56
+60,06-01-2019,Jan-19,Siri Fort,62,192,51
+60,28-01-2019,Jan-19,Siri Fort,53,130,47
+60,11-02-2019,Feb-19,Siri Fort,45,146,40
+60,24-02-2019,Feb-19,Siri Fort,43,181,43
+60,05-03-2019,Mar-19,Siri Fort,32,88,45
+60,24-03-2019,Mar-19,Siri Fort,54,149,42
+60,10-04-2019,Apr-19,Siri Fort,55,140,42
+60,28-04-2019,Apr-19,Siri Fort,64,188,45
+60,05-05-2019,May-19,Siri Fort,65,137,46
+60,26-05-2019,May-19,Siri Fort,54,110,49
+60,04-06-2019,Jun-19,Siri Fort,46,195,56
+60,22-06-2019,Jun-19,Siri Fort,25,73,51
+60,09-07-2019,Jul-19,Siri Fort,33,177,50
+60,30-07-2019,Jul-19,Siri Fort,45,179,53
+60,05-08-2019,Aug-19,Siri Fort,48,124,50
+60,26-08-2019,Aug-19,Siri Fort,67,150,49
+60,01-09-2019,Sep-19,Siri Fort,68,181,50
+60,28-09-2019,Sep-19,Siri Fort,65,123,47
+60,05-10-2019,Oct-19,Siri Fort,94,258,51
+60,21-10-2019,Oct-19,Siri Fort,51,252,51
+60,06-11-2019,Nov-19,Siri Fort,65,231,52
+60,24-11-2019,Nov-19,Siri Fort,84,343,51
+60,01-12-2019,Dec-19,Siri Fort,64,243,55
+60,30-12-2019,Dec-19,Siri Fort,77,331,75
+144,07-01-2020,Jan-20,Sarojini Nagar,68,184,84
+144,26-01-2020,Jan-20,Sarojini Nagar,55,173,109
+144,04-02-2020,Feb-20,Sarojini Nagar,53,143,84
+144,26-02-2020,Feb-20,Sarojini Nagar,58,136,84
+144,10-03-2020,Mar-20,Sarojini Nagar,55,120,120
+144,26-03-2020,Mar-20,Sarojini Nagar,66,265,95
+144,01-04-2020,Apr-20,Sarojini Nagar,54,117,87
+144,28-04-2020,Apr-20,Sarojini Nagar,51,97,65
+144,06-05-2020,May-20,Sarojini Nagar,66,239,110
+144,18-05-2020,May-20,Sarojini Nagar,45,173,133
+144,09-06-2020,Jun-20,Sarojini Nagar,64,200,43
+144,26-06-2020,Jun-20,Sarojini Nagar,67,61,54
+144,14-07-2020,Jul-20,Sarojini Nagar,69,41,49
+144,29-07-2020,Jul-20,Sarojini Nagar,59,18,18
+144,12-08-2020,Aug-20,Sarojini Nagar,57,59,52
+144,27-08-2020,Aug-20,Sarojini Nagar,32,57,81
+144,08-09-2020,Sep-20,Sarojini Nagar,25,67,49
+144,23-09-2020,Sep-20,Sarojini Nagar,40,37,60
+144,13-10-2020,Oct-20,Sarojini Nagar,45,88,93
+144,29-10-2020,Oct-20,Sarojini Nagar,68,107,115
+144,07-11-2020,Nov-20,Sarojini Nagar,75,305,126
+144,29-11-2020,Nov-20,Sarojini Nagar,45,352,120
+144,02-12-2020,Dec-20,Sarojini Nagar,44,271,140
+144,30-12-2020,Dec-20,Sarojini Nagar,84,311,145
+146,06-01-2021,Jan-21,Chandni Chowk,64,236,90
+146,29-01-2021,Jan-21,Chandni Chowk,72,279,101
+146,04-02-2021,Feb-21,Chandni Chowk,77,163,102
+146,19-02-2021,Feb-21,Chandni Chowk,53,207,61
+146,04-03-2021,Mar-21,Chandni Chowk,48,128,137
+146,26-03-2021,Mar-21,Chandni Chowk,55,130,85
+146,07-04-2021,Apr-21,Chandni Chowk,57,162,108
+146,24-04-2021,Apr-21,Chandni Chowk,54,409,125
+146,06-05-2021,May-21,Chandni Chowk,50,342,123
+146,27-05-2021,May-21,Chandni Chowk,66,393,108
+146,02-06-2021,Jun-21,Chandni Chowk,65,142,116
+146,24-06-2021,Jun-21,Chandni Chowk,64,53,62
+146,01-07-2021,Jul-21,Chandni Chowk,43,72,29
+146,16-07-2021,Jul-21,Chandni Chowk,69,88,43
+146,04-08-2021,Aug-21,Chandni Chowk,55,39,50
+146,26-08-2021,Aug-21,Chandni Chowk,57,65,75
+146,01-09-2021,Sep-21,Chandni Chowk,55,110,47
+146,23-09-2021,Sep-21,Chandni Chowk,25,58,73
+146,06-10-2021,Oct-21,Chandni Chowk,25,139,124
+146,19-10-2021,Oct-21,Chandni Chowk,40,296,162
+146,03-11-2021,Nov-21,Chandni Chowk,45,457,155
+146,26-11-2021,Nov-21,Chandni Chowk,68,305,207
+146,08-12-2021,Dec-21,Chandni Chowk,75,435,182
+146,30-12-2021,Dec-21,Chandni Chowk,45,318,161
+345,14-01-2022,Jan-22,Mayapuri Industrial Area,44,344,99
+345,29-01-2022,Jan-22,Mayapuri Industrial Area,41,251,76
+345,10-02-2022,Feb-22,Mayapuri Industrial Area,84,293,133
+345,26-02-2022,Feb-22,Mayapuri Industrial Area,70,333,104
+345,03-03-2022,Mar-22,Mayapuri Industrial Area,68,165,130
+345,19-03-2022,Mar-22,Mayapuri Industrial Area,48,207,77
+345,07-04-2022,Apr-22,Mayapuri Industrial Area,55,202,118
+345,22-04-2022,Apr-22,Mayapuri Industrial Area,60,379,131
+345,12-05-2022,May-22,Mayapuri Industrial Area,66,448,102
+345,30-05-2022,May-22,Mayapuri Industrial Area,47,408,104
+345,02-06-2022,Jun-22,Mayapuri Industrial Area,40,205,94
+345,24-06-2022,Jun-22,Mayapuri Industrial Area,54,105,57
+345,01-07-2022,Jul-22,Mayapuri Industrial Area,53,164,23
+345,23-07-2022,Jul-22,Mayapuri Industrial Area,32,116,51
+345,04-08-2022,Aug-22,Mayapuri Industrial Area,29,140,53
+345,18-08-2022,Aug-22,Mayapuri Industrial Area,64,91,66
+345,01-09-2022,Sep-22,Mayapuri Industrial Area,54,171,70
+345,29-09-2022,Sep-22,Mayapuri Industrial Area,56,173,46
+345,06-10-2022,Oct-22,Mayapuri Industrial Area,54,240,51
+345,28-10-2022,Oct-22,Mayapuri Industrial Area,25,274,97
+345,03-11-2022,Nov-22,Mayapuri Industrial Area,33,458,171
+345,28-11-2022,Nov-22,Mayapuri Industrial Area,49,346,127
+345,02-12-2022,Dec-22,Mayapuri Industrial Area,52,369,148
+345,22-12-2022,Dec-22,Mayapuri Industrial Area,45,616,223
+531,05-01-2023,Jan-23,Pitampura,15,221,35
+531,27-01-2023,Jan-23,Pitampura,44,170,34
+531,02-02-2023,Feb-23,Pitampura,51,393,35
+531,23-02-2023,Feb-23,Pitampura,56,257,35
+531,04-03-2023,Mar-23,Pitampura,84,227,33
+531,26-03-2023,Mar-23,Pitampura,72,171,32
+531,09-04-2023,Apr-23,Pitampura,70,127,34
+531,27-04-2023,Apr-23,Pitampura,62,205,37
+531,07-05-2023,May-23,Pitampura,55,253,35
+531,28-05-2023,May-23,Pitampura,38,267,31
+531,03-06-2023,Jun-23,Pitampura,45,258,35
+531,29-06-2023,Jun-23,Pitampura,66,194,32
+531,03-07-2023,Jul-23,Pitampura,72,252,31
+531,29-07-2023,Jul-23,Pitampura,47,416,28
+531,04-08-2023,Aug-23,Pitampura,40,171,28
+531,28-08-2023,Aug-23,Pitampura,65,253,35
+531,03-09-2023,Sep-23,Pitampura,54,164,33
+531,24-09-2023,Sep-23,Pitampura,55,277,30
+531,07-10-2023,Oct-23,Pitampura,43,204,33
+531,29-10-2023,Oct-23,Pitampura,54,450,36
+531,05-11-2023,Nov-23,Pitampura,67,161,72
+531,27-11-2023,Nov-23,Pitampura,49,426,44
+531,03-12-2023,Dec-23,Pitampura,64,590,56
+531,31-12-2023,Dec-23,Pitampura,48,420,44
